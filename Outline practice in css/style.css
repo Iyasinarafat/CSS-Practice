@@ -1,0 +1,10 @@
+p{
+    margin: 50px;
+    outline: 5px solid green;
+    border: 2px solid black;
+    /* outline-width: 5px;
+    outline-style: solid;
+    outline-color: red; */
+    outline-offset: 20px;
+    
+}
