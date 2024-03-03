@@ -1,0 +1,10 @@
+.firstpara{
+    background-image: url(img/flower.png);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.seconpara{
+    background-color: antiquewhite;
+    width: 80%;
+}
